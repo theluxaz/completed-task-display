@@ -3,10 +3,10 @@
 This is a plugin for [Obsidian](https://obsidian.md) that allows you to toggle the display of completed tasks in markdown preview mode.
 
 ### Installation
-Put contents of this repo into ./obsidian/plugins/completed-task-display-hidden
-In that folder run `npm install`
-Also run `npm run build`
-Refresh and enable plugin on Obsidian
+1. Put contents of this repo into ./obsidian/plugins/completed-task-display-hidden
+2. In that folder run `npm install`
+3. Also run `npm run build`
+4. Refresh and enable plugin on Obsidian
 
 
 ### Features
